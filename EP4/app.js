@@ -7,7 +7,7 @@ const port = 3000;
 
 app.get("/", (req,res) =>{
 
-    res.send('Hello Growth Potential Test !!');
+    res.send('Hello Growth Potential !!');
 
 })
 
